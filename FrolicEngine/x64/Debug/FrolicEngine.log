@@ -1,11 +1,5 @@
-﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-main.obj : error LNK2001: unresolved external symbol __glewBindBuffer
-main.obj : error LNK2001: unresolved external symbol __glewBufferData
-main.obj : error LNK2001: unresolved external symbol __glewGenBuffers
-main.obj : error LNK2001: unresolved external symbol __glewDisableVertexAttribArray
-main.obj : error LNK2001: unresolved external symbol __glewEnableVertexAttribArray
-main.obj : error LNK2001: unresolved external symbol __glewVertexAttribPointer
-main.obj : error LNK2001: unresolved external symbol __glewBindVertexArray
-main.obj : error LNK2001: unresolved external symbol __glewGenVertexArrays
-main.obj : error LNK2001: unresolved external symbol glewExperimental
-C:\Users\Asus\Desktop\FrolicEngine\FrolicEngine\x64\Debug\FrolicEngine.exe : fatal error LNK1120: 9 unresolved externals
+﻿  main.cpp
+  Window.cpp
+  Generating Code...
+  FrolicEngine.vcxproj -> C:\Users\Asus\Desktop\FrolicEngine3D\x64\Debug\FrolicEngine.exe
+  FrolicEngine.vcxproj -> C:\Users\Asus\Desktop\FrolicEngine3D\x64\Debug\FrolicEngine.pdb (Partial PDB)
